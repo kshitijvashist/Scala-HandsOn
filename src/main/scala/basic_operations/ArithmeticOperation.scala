@@ -9,6 +9,7 @@ object ArithmeticOperation {
     println(a -b);
     println("Multiplication="+a * b);
     println("Division="+a / b);
+    println("Modulus="+a % b);
   }
 
 }

@@ -1,4 +1,4 @@
-package recusrion_basics
+package recursion_basics
 
 object Factorial {
 
